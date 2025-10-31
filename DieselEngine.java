@@ -1,3 +1,5 @@
 class DieselEngine extends Engine {
-    void start() { }
+    void start() { 
+        System.out.println("Diesel engine starting...");
+    }
 }
